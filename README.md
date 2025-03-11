@@ -1,24 +1,33 @@
 # YoPhone
 
-# 🚀 YoPhone-ի հետաքրքիր հատկություններ - Development in Progress
+## An Innovative Telephony API
 
-## ❗ Նախագիծը դեռ մշակման փուլում է
-Բարի գալուստ **YoPhone-ի հետաքրքիր հատկություններ** ռեպոզիտորիա!  
-Այս API-ն մշակվում է **Django REST framework**-ի միջոցով և նախատեսված է **ցանկանում ենք մեր թիմով հետաքրքիր նորարարության**:
+### About
+YoPhone is a developing API built with the Django REST framework. The goal of this project is to experiment with and implement innovative functionalities that enhance user experience through secure registration, user authentication, CRUD operations, and more.
 
-🔹 Այս պահին նախագիծը գտնվում է ակտիվ զարգացման փուլում, ուստի որոշ ֆունկցիոնալ հնարավորություններ դեռևս հասանելի չեն։  
-🔹 Թարմացումները կլինեն պարբերաբար, և մենք կհայտարարենք, երբ առաջին կայուն տարբերակը պատրաստ լինի։  
+> **Note:** This project is still under active development, so some features may not be fully available yet. Updates and new functionalities will be rolled out as we work towards a stable release.
 
 ---
 
-## 📌 Նախատեսվող Հնարավորությունները  
-Այս API-ն ներառելու է՝  
-✅ **Օգտատերերի գրանցում և նույնականացում**  
-✅ **RESTful API endpoint-ներ՝ CRUD գործողությունների համար**  
-✅ **JWT authentication և անվտանգության գործիքներ**  
-✅ **API փաստաթղթավորում (Swagger / Redoc)**  
+### Features
+- **User Registration and Authentication:**  
+  Secure sign-up and authentication using JWT.
+- **RESTful API Endpoints:**  
+  Provides robust CRUD endpoints for seamless integration.
+- **Security:**  
+  Utilizes modern security practices including token-based authentication.
+- **API Documentation:**  
+  Interactive API documentation powered by Swagger or Redoc.
+- **Redis Integration:**  
+  Redis is used for caching and performance optimization.
 
-📢 **Ապագա պլաններ**  
-🔹 Նոր endpoint-ներ  
-🔹 Հավելյալ վավերացումներ և ֆիլտրացիա  
-🔹 Թեստային միջավայր և ավելի լավ տրամաբանական ստուգումներ  
+---
+
+### Technologies Used
+- **Python** – Primary programming language.
+- **Django REST Framework** – The backbone of the API.
+- **JWT Authentication** – For secure user authentication.
+- **Swagger/Redoc** – For generating and interacting with API documentation.
+- **Redis** – Enhances performance through caching.
+
+---
